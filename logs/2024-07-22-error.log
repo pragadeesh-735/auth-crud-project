@@ -1,0 +1,4 @@
+2024-07-22 13:06:02 error: Unable to connect to the database: getaddrinfo ENOTFOUND lhost
+2024-07-22 13:06:06 error: Unable to connect to the database: getaddrinfo ENOTFOUND lhost
+2024-07-22 14:21:30 error: Unable to connect to the server: app.liste is not a function
+2024-07-22 15:08:32 error: USERCTR002: Error in controller : WHERE parameter "email" has invalid "undefined" value
