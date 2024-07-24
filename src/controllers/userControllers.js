@@ -59,7 +59,7 @@ export const login = async (req, res) => {
     res.status(500).send({ message: err.message })
   }
 }
-
+//get all user
 //get all User
 export const getAllUsers = async (req, res) => {
   try {
